@@ -15,4 +15,4 @@ nginx
 nacos/nacos-server:v2.4.0
 bitnami/kafka:3.8.0
 bladex/sentinel-dashboard:1.8.7
-minio/minio:2024.8.3
+bitnami/minio:2024.8.17
