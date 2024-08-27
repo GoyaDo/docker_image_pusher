@@ -12,3 +12,7 @@ apache/skywalking-ui:9.7.0-java17
 mysql
 redis
 nginx
+nacos/nacos-server:v2.4.0
+bitnami/kafka:3.8.0
+bladex/sentinel-dashboard:1.8.7
+minio/minio:2024.8.3
