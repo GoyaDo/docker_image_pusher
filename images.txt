@@ -1,8 +1,11 @@
-verizondigital/kubectl-flame:v0.2.4-python
-quay.io/dante-cloud/nacos-server:v2.4.1
-quay.io/dante-cloud/kafka:3.8.0
-quay.io/dante-cloud/sentinel-dashboard:v1.8.8
-quay.io/minio/minio:RELEASE.2024-08-17T01-24-54Z
+# verizondigital/kubectl-flame:v0.2.4-python
+# quay.io/dante-cloud/nacos-server:v2.4.1
+# herodotus/nacos-server:v2.4.1
+# quay.io/herodotus-cloud/nacos-server
+# quay.io/herodotus-cloud/kafka:3.8.0
+# quay.io/herodotus-cloud/sentinel-dashboard:v1.8.8
+# quay.io/herodotus-cloud/sentinel-dashboard
+# quay.io/minio/minio:RELEASE.2024-08-17T01-24-54Z
 sebp/elk:latest
 apache/skywalking-oap-server:9.7.0-java17
 apache/skywalking-ui:9.7.0-java17
