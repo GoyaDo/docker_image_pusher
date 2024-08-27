@@ -6,9 +6,9 @@ nginx
 # mysql
 mysql
 # elasticsearch
-elasticsearch
+# elasticsearch
 # kibana
-kibana
+# kibana
 # postgresql
 postgresql
 # mongodb
