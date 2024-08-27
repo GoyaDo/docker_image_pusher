@@ -1,1 +1,23 @@
 verizondigital/kubectl-flame:v0.2.4-python
+# redis
+redis
+# nginx
+nginx
+# mysql
+mysql
+# elasticsearch
+elasticsearch
+# kibana
+kibana
+# postgresql
+postgresql
+# mongodb
+mongodb
+# kafka
+kafka
+# nacos
+nacos
+# sentinel
+sentinel
+# minio
+minio
