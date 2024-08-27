@@ -10,7 +10,7 @@ mysql
 # kibana
 # kibana
 # postgresql
-postgresql
+# postgresql
 # mongodb
 # mongodb
 # kafka
