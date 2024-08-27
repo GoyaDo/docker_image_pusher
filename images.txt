@@ -4,10 +4,8 @@ quay.io/dante-cloud/kafka:3.8.0
 quay.io/dante-cloud/sentinel-dashboard:v1.8.8
 quay.io/minio/minio:RELEASE.2024-08-17T01-24-54Z
 sebp/elk:latest
-debezium/connect:2.7
 apache/skywalking-oap-server:9.7.0-java17
 apache/skywalking-ui:9.7.0-java17
-polarismesh/polaris-standalone:latest
 mysql
 redis
 nginx
