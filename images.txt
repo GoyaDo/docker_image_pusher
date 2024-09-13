@@ -17,3 +17,4 @@ bitnami/kafka:3.8.0
 bladex/sentinel-dashboard:1.8.7
 bitnami/minio:2024.8.17
 mysql:8.0.33
+axoniq/axonserver:latest-jdk-17
