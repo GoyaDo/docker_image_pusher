@@ -17,6 +17,5 @@
 # bladex/sentinel-dashboard:1.8.7
 # bitnami/minio:2024.8.17
 # mysql:8.0.33
-# axoniq/axonserver:latest-jdk-17
 bellsoft/liberica-openjre-alpine:21-cds
 bellsoft/liberica-openjre-debian:21-cds
