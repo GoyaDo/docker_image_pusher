@@ -19,4 +19,4 @@
 # mysql:8.0.33
 bellsoft/liberica-openjre-alpine:21-cds
 bellsoft/liberica-openjre-debian:21-cds
-docker.io/library/crpi-037ve0rbxszxx49z.cn-chengdu.personal.cr.aliyuncs.com:latest
+maven:3.9.9-eclipse-temurin-21-alpine
