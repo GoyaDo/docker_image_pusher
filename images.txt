@@ -6,15 +6,17 @@
 # quay.io/herodotus-cloud/sentinel-dashboard:v1.8.8
 # quay.io/herodotus-cloud/sentinel-dashboard
 # quay.io/minio/minio:RELEASE.2024-08-17T01-24-54Z
-sebp/elk:latest
-apache/skywalking-oap-server:9.7.0-java17
-apache/skywalking-ui:9.7.0-java17
-mysql
-redis
-nginx
-nacos/nacos-server:v2.4.0
-bitnami/kafka:3.8.0
-bladex/sentinel-dashboard:1.8.7
-bitnami/minio:2024.8.17
-mysql:8.0.33
-axoniq/axonserver:latest-jdk-17
+# sebp/elk:latest
+# apache/skywalking-oap-server:9.7.0-java17
+# apache/skywalking-ui:9.7.0-java17
+# mysql
+# redis
+# nginx
+# nacos/nacos-server:v2.4.0
+# bitnami/kafka:3.8.0
+# bladex/sentinel-dashboard:1.8.7
+# bitnami/minio:2024.8.17
+# mysql:8.0.33
+# axoniq/axonserver:latest-jdk-17
+bellsoft/liberica-openjre-alpine:21-cds
+bellsoft/liberica-openjre-debian:21-cds
