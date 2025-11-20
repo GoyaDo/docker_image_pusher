@@ -21,3 +21,4 @@ bellsoft/liberica-openjre-alpine:21-cds
 bellsoft/liberica-openjre-debian:21-cds
 maven:3.9.9-eclipse-temurin-21-alpine
 bitnami/postgresql:17
+bitnami/kafka:3.5.1
