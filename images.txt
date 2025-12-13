@@ -1,24 +1,6 @@
-# verizondigital/kubectl-flame:v0.2.4-python
-# quay.io/dante-cloud/nacos-server:v2.4.1
-# herodotus/nacos-server:v2.4.1
-# quay.io/herodotus-cloud/nacos-server
-# quay.io/herodotus-cloud/kafka:3.8.0
-# quay.io/herodotus-cloud/sentinel-dashboard:v1.8.8
-# quay.io/herodotus-cloud/sentinel-dashboard
-# quay.io/minio/minio:RELEASE.2024-08-17T01-24-54Z
-# sebp/elk:latest
-# apache/skywalking-oap-server:9.7.0-java17
-# apache/skywalking-ui:9.7.0-java17
-# mysql
-# redis
-# nginx
-# nacos/nacos-server:v2.4.0
-# bitnami/kafka:3.8.0
-# bladex/sentinel-dashboard:1.8.7
-# bitnami/minio:2024.8.17
-# mysql:8.0.33
-#bellsoft/liberica-openjre-alpine:21-cds
-#bellsoft/liberica-openjre-debian:21-cds
-#maven:3.9.9-eclipse-temurin-21-alpine
-#bitnami/postgresql:17
-bitnami/kafka:3.5.1
+bitnami/postgresql:latest
+mysql:latest
+mongo:latest
+redis:latest
+apache/kafka:latest
+minio/minio:latest
