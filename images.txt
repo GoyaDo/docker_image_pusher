@@ -4,3 +4,4 @@ mongo:latest
 redis:latest
 apache/kafka:latest
 minio/minio:latest
+nginx:latest
